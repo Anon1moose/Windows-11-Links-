@@ -1,0 +1,22 @@
+Here's how to install windows 11 on non support devies
+
+you'll need rufus version 3.18 (very important) and an official windows 11 iso 
+
+\\Rufus
+
+https://rufus.ie/downloads/
+
+\\you need version 3.18 as it has the extended install feature, newer versions dont have it.
+
+\\windows 11 iso 
+
+select your usb
+
+select your iso 
+
+select extended install no tpm no secure boot 
+
+select mbr for bios or uefi if you dont know the difference difference between bios and uefi 
+
+
+after you have finished you can run the setup installer directly from your windows desktop 
