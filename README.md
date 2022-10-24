@@ -1,1 +1,1 @@
-# Windows-11-Links-
+Please be aware that i cannot guarantee the state of your machine after updateing and i cannot ensure that your device specifcations can run windows 11 and doing this process is at your own risk and i am not accountable for your actions
